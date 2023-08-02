@@ -1,0 +1,27 @@
+/* MovieList.css */
+.movie-list {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 30px;
+  }
+  
+  .movie-card {
+    flex-basis: 30%;
+    margin-bottom: 30px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .movie-card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .movie-card h2 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  
+ 
