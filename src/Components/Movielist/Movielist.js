@@ -19,4 +19,4 @@ rateFilter?
   )
 }
 
-export default Movielist
+export default Movielist;
